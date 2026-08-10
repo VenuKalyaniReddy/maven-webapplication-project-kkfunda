@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 DevOps new batch will strat on Aug 15 , Firstly Happy indepence Day 🚀</h1>
+    <h1>🚀 DevOps new batch will strat on Aug 15 , Firstly Happy indepence Day, Thank you so much  🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
