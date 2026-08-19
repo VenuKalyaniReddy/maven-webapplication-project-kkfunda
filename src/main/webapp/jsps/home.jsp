@@ -47,7 +47,7 @@
 
 <header>
 <marquee>
-    <h1>🚀 DevOps new batch will strat on Aug 15 , Firstly Happy indepence Day, Thank you so much  🚀</h1>
+    <h1>🚀 Thank you every one We are conduction MMM classes  Every day Night 9:00 PM to 10:00PM  🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </marquee>
 </header>
